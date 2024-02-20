@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Playlist-App-with-Redux/static/css/main.e8e8c9cc.css",
+    "main.js": "/Playlist-App-with-Redux/static/js/main.d57dbf7e.js",
+    "index.html": "/Playlist-App-with-Redux/index.html",
+    "main.e8e8c9cc.css.map": "/Playlist-App-with-Redux/static/css/main.e8e8c9cc.css.map",
+    "main.d57dbf7e.js.map": "/Playlist-App-with-Redux/static/js/main.d57dbf7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e8c9cc.css",
+    "static/js/main.d57dbf7e.js"
+  ]
+}
